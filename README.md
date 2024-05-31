@@ -4,4 +4,4 @@
 
 The file `Detectron2.ipynb` is too large to preview directly on GitHub. You can download it:
 
-[Detectron2.ipynb]
+([[Detectron2.ipynb]](https://github.com/sarashahin/Badger_AI/blob/main/Detectron2.ipynb))
